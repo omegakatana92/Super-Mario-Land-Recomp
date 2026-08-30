@@ -1,0 +1,6 @@
+*.gb
+*.gbc
+*.GB
+*.GBC
+*_metadata.json
+build/
